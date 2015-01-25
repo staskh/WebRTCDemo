@@ -24,3 +24,9 @@ proguard/
 
 # Log Files
 *.log
+
+# Eclipse local setting
+.settings/
+
+# SVN files
+*/.svn/
